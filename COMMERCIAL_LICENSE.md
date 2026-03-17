@@ -7,4 +7,4 @@ A commercial license typically grants:
 - no requirement to disclose source code of your product or modifications
 - optional paid support terms (if agreed)
 
-To obtain a quote/license: <YOUR_EMAIL>
+To obtain a quote/license: marco.navarro.lab@google.com
